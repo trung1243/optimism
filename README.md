@@ -116,7 +116,7 @@ The full set of components that have releases are:
 - `op-node`
 - `op-proposer`
 
-All other components and packages should be considered development components only and do not have releases.
+All other components and packages should be considered development components only and do not have releases
 
 ### Development branch
 
